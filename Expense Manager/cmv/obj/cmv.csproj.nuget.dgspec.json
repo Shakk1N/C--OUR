@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rybal\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\cmv.csproj": {}
+    "C:\\Users\\dasha\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\cmv.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rybal\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\cmv.csproj": {
+    "C:\\Users\\dasha\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\cmv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rybal\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\cmv.csproj",
+        "projectUniqueName": "C:\\Users\\dasha\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\cmv.csproj",
         "projectName": "cmv",
-        "projectPath": "C:\\Users\\rybal\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\cmv.csproj",
-        "packagesPath": "C:\\Users\\rybal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rybal\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\obj\\",
+        "projectPath": "C:\\Users\\dasha\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\cmv.csproj",
+        "packagesPath": "C:\\Users\\dasha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dasha\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rybal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,6 +49,28 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
