@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dasha\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\cmv.csproj": {}
+    "C:\\Users\\rybal\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\cmv.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dasha\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\cmv.csproj": {
+    "C:\\Users\\rybal\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\cmv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dasha\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\cmv.csproj",
+        "projectUniqueName": "C:\\Users\\rybal\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\cmv.csproj",
         "projectName": "cmv",
-        "projectPath": "C:\\Users\\dasha\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\cmv.csproj",
-        "packagesPath": "C:\\Users\\dasha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dasha\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\obj\\",
+        "projectPath": "C:\\Users\\rybal\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\cmv.csproj",
+        "packagesPath": "C:\\Users\\rybal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rybal\\OneDrive\\Документи\\GitHub\\C--OUR\\Expense Manager\\cmv\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rybal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
